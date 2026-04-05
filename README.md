@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Umer 👋</h1>
 
 <p align="center">
-Backend Engineer | AI Engineering in progress  
-Building systems to make life more convenient
+Backend Engineer | AI Engineering in progress | Building systems to make life more convenient
 </p>
 
 ---
@@ -39,7 +38,7 @@ Building systems to make life more convenient
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,springboot,nodejs,django,flask,pandas,numpy,react,html,css,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,spring,nodejs,django,flask,react,html,css,postman,git,github" />
 </p>
 
 ---
