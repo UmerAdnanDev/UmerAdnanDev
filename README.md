@@ -27,14 +27,6 @@ Backend Engineer | AI Engineering in progress | Building systems to make life mo
 
 ---
 
-## 🚀 Currently Building
-
-- 🔥 FastAPI + AI projects  
-- 🧠 Learning ML / DL fundamentals  
-- ⚙️ Backend systems & APIs  
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
