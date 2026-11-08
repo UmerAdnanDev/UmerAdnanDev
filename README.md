@@ -10,9 +10,6 @@
 
 - BS Software Engineering student
 - Backend engineer focused on **Python / FastAPI** and **Java / Spring**
-- Currently learning **LLM application engineering** — RAG pipelines, agentic workflows, and evals
-- 2026 goal: ship production-grade backend and AI systems, not tutorials
-- Currently reading: *Designing Data-Intensive Applications* · *AI Engineering (Chip Huyen)*
 
 ---
 
@@ -25,6 +22,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UmerAdnanDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerAdnanDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerAdnanDev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
